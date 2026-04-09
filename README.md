@@ -1,12 +1,31 @@
-# Hi there 👋, I'm Mohamed Mustafa
-- 🎓 Mobile Repair Technician with 4+ years of experience
-- 💻 Currently learning C# and .NET (EF Core, ASP.NET, Unity)
-- 🚀 Aspiring to become a remote Unity Developer
-- 🌱 Exploring Entity Framework Core and Game Development
-- 📫 How to reach me: mohamedmustafa4321@gmail.com
+# Hi, I'm Mohamed Mustafa 👋
 
-## 🚀 Skills
-![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=for-the-badge)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
-![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=for-the-badge)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge)
+I'm a **Backend Engineer** specializing in **C# and ASP.NET Core**. I build scalable and maintainable backend systems, focusing on clean architecture, SOLID principles, and high-performance code.
+
+---
+
+## 🔹 What I Do
+
+- Develop **RESTful APIs** with ASP.NET Core Web API  
+- Design and manage **databases** using SQL Server and Entity Framework Core  
+- Implement **authentication & authorization** with JWT and ASP.NET Core Identity  
+- Apply **design patterns** like Repository Pattern & Unit of Work for clean code  
+- Optimize performance using **Redis Caching** and efficient database queries  
+- Work with **Agile methodologies** and Git for version control  
+
+---
+
+## 🔹 Tech Stack
+
+**Languages:** C#, C++, SQL  
+**Backend:** ASP.NET Core MVC, Web API, Entity Framework Core  
+**Database & Caching:** SQL Server, Redis  
+**Architecture & Patterns:** Clean Architecture, SOLID Principles, Repository Pattern, Unit of Work  
+**Tools:** Git, GitHub, Visual Studio  
+
+---
+## 🔹 Contact Me
+
+- 📧 Email: mohamedmustafa4321@gmail.com  
+- 📱 Phone: (+20) 1276836859  
+- 🔗 LinkedIn: [https://www.linkedin.com/in/mohamed-mustafa-3040a8171/](#)  
